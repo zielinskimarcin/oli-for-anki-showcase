@@ -1,0 +1,10 @@
+# Public showcase: only these reviewed files may be added.
+*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/app-store-01.png
+!/assets/app-store-02.png
+!/assets/app-store-03.png
+!/assets/app-store-04.png
